@@ -2,7 +2,7 @@
 FORR2GL05DU-Hát Leikjaforritun I frá það sem ég fell fyrir en og svo býrja óct 2023 aftur ekki águst.
 #### verkfni1
 #### https://www.youtube.com/watch?v=6GvNiopeNqY
-## [skriftur](skriftur)
+## [skriftur](skriftur_v1)
 Scene View: er gagnvirki sandkassinn þinn. Þú munt nota senuskjáinn til að velja og staðsetja umhverfi, spilarann, myndavélina, óvini og alla aðra GameObjects.
 
 Game View: Það er dæmigert fyrir síðasta, birta leikinn þinn.
