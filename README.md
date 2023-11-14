@@ -16,5 +16,5 @@ Inspector: Sýnir nákvæmar upplýsingar um valið GameObject, þar á meðal a
 
 
 #### verkfni2
-#### myndband 
+#### https://www.youtube.com/watch?v=aFi7wdOe2JI 
 ## [skriftur](skriftur_v2)
