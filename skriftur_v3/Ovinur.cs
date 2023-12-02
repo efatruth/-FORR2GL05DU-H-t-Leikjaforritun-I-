@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
-//using UnityEngine.UI;
+// með UnityEngine.UI;
 using TMPro;
 
 public class Ovinur : MonoBehaviour
@@ -13,7 +13,7 @@ public class Ovinur : MonoBehaviour
     private Rigidbody rb;
     private Vector3 movement;
     public float hradi = 5f;
-    // Start is called before the first frame update
+    // Start er kallað fyrir fyrstu rammauppfærslu
     void Start()
     {
         texti= GameObject.Find("Líf").GetComponent<TextMeshProUGUI>();
@@ -21,7 +21,7 @@ public class Ovinur : MonoBehaviour
         texti.text = "Líf " + health.ToString();
     }
 
-    // Update is called once per frame
+    // Uppfærsla er kölluð einu sinni í hvern ramma
     void Update()
     {
         Vector3 stefna = player.position - transform.position;
