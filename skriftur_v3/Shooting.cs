@@ -14,7 +14,7 @@ public class Shooting : MonoBehaviour
         {
             Debug.Log("skjOtttttttt");       
            
-            //GameObject instBullet = Instantiate(bullet, transform.position, Quaternion.identity) as GameObject;
+            //GameObject instBullet = Instantiate(bullet, transform.position, Quaternion.identity) sem GameObject;
             GameObject instBullet = Instantiate(bullet, transform.position, transform.rotation) as GameObject;
             Rigidbody instBulletRigidbody = instBullet.GetComponent<Rigidbody>();
             instBulletRigidbody.AddForce(transform.forward * speed);
