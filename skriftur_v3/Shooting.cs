@@ -7,7 +7,7 @@ public class Shooting : MonoBehaviour
     public GameObject bullet;
     public float speed = 4000f;
     
-    // Update is called once per frame
+    // Uppfærsla er kölluð einu sinni í hvern ramma
     void Update()
     {
         if (Input.GetKeyDown(KeyCode.Z))
