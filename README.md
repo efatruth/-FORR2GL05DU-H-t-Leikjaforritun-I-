@@ -22,6 +22,8 @@ Inspector: Sýnir nákvæmar upplýsingar um valið GameObject, þar á meðal a
 
 
 #### verkfni3
+#### https://www.youtube.com/watch?v=PjG0OVNFoZI
+## [skriftur3](skriftur_v3)
 Þetta er bara einfaldur þrívíddarleikur. Í þessum leikjaheimi eru nokkrar tegundir af trjám, runnum og grasi sem ég notaði úr staðlaða eignapakkanum til að búa til eins og tré og fleira.
 
 Þó það sé ekkert hljóð og ekkert svæði sem er eins konar eyðimörk, vötn né landslag með fjöllum og dölum hér í þessum leikheimi. En einnig með notkun á viðeigandi hlutum eins og Terrain Tools pakkanum og Mini fyrstu persónu stjórnunarstigatöflunni.
@@ -29,5 +31,3 @@ Inspector: Sýnir nákvæmar upplýsingar um valið GameObject, þar á meðal a
 Jæja, leikmaðurinn er fær um að skjóta í gegnum og blása og safna stigum á þann hátt með því að safna hlutum.
 
 Þegar leikmaður skýtur í gegnum og sprengir allt að 7 hluti (kassa), þá gerist sena sem segir að leikurinn er lokið og atriðið er með hnapp sem byrjar nýjan leik.
-#### https://www.youtube.com/watch?v=PjG0OVNFoZI
-## [skriftur3](skriftur_v3)
