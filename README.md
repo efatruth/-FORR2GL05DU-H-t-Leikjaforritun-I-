@@ -24,7 +24,7 @@ Inspector: Sýnir nákvæmar upplýsingar um valið GameObject, þar á meðal a
 #### verkfni3
 #### https://www.youtube.com/watch?v=PjG0OVNFoZI
 ## [skriftur3](skriftur_v3)
-Þetta er bara einfaldur þrívíddarleikur. Í þessum leikjaheimi eru nokkrar tegundir af trjám, runnum og grasi sem ég notaði úr staðlaða eignapakkanum til að búa til eins og tré og fleira.
+Þetta er bara einfaldur 3D leik. Í þessum leikjaheimi eru nokkrar tegundir af trjám, runnum og grasi sem ég notaði úr staðlaða eignapakkanum til að búa til eins og tré og fleira.
 
 Þó það sé ekkert hljóð og ekkert svæði sem er eins konar eyðimörk, vötn né landslag með fjöllum og dölum hér í þessum leikheimi. En einnig með notkun á viðeigandi hlutum eins og Terrain Tools pakkanum og Mini fyrstu persónu stjórnunarstigatöflunni.
 
