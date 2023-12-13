@@ -31,3 +31,9 @@ Inspector: Sýnir nákvæmar upplýsingar um valið GameObject, þar á meðal a
 Jæja, leikmaðurinn er fær um að skjóta í gegnum og blása og safna stigum á þann hátt með því að safna hlutum.
 
 Þegar leikmaður skýtur í gegnum og sprengir allt að 7 hluti (kassa), þá gerist sena sem segir að leikurinn er lokið og atriðið er með hnapp sem byrjar nýjan leik.
+
+
+
+#### verkfni4
+#### myndband
+## [skriftur4](skriftur_v4)
