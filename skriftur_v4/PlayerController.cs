@@ -8,13 +8,13 @@ public class RubyController : MonoBehaviour
     float horizontal;
     float vertical;
 
-    // Start is called before the first frame update
+  // Start er kallað fyrir fyrstu rammauppfærslu.
     void Start()
     {
         rigidbody2d = GetComponent<Rigidbody2D>();
     }
 
-    // Update is called once per frame
+   // Uppfærsla er kölluð einu sinni í hvern ramma
     void Update()
     {
         horizontal = Input.GetAxis("Horizontal");
