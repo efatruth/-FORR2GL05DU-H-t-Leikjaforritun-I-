@@ -14,7 +14,7 @@ public class Shooting : MonoBehaviour
         {
             Debug.Log("skjOtttttttt");       
            
-            //GameObject instBullet = Instantiate(bullet, transform.position, Quaternion.identity) sem GameObject;
+            //Game Object instBullet = Staðfesta (byssukúla, umbreytingarstaða, Quaternion auðkenni) sem Game Object;
             GameObject instBullet = Instantiate(bullet, transform.position, transform.rotation) as GameObject;
             Rigidbody instBulletRigidbody = instBullet.GetComponent<Rigidbody>();
             instBulletRigidbody.AddForce(transform.forward * speed);
