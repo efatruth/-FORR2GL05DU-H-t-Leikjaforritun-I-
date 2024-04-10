@@ -5,6 +5,7 @@ using UnityEngine.SceneManagement;
 
 public class Klikk : MonoBehaviour
 {
+// Hjalpar aðra skjal að virka
     public void Byrja()
     {
         SceneManager.LoadScene(1);
