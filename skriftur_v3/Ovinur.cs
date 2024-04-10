@@ -21,7 +21,7 @@ public class Ovinur : MonoBehaviour
         texti.text = "Líf " + health.ToString();
     }
 
-    // Uppfærsla er kölluð einu sinni í hvern ramma
+    //Uppfærsla er kölluð einu sinni í hvern ramma
     void Update()
     {
         Vector3 stefna = player.position - transform.position;
