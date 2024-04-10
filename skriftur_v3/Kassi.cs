@@ -37,7 +37,7 @@ public class Kassi : MonoBehaviour
             Destroy(gameObject);
             gameObject.SetActive(false);
             Debug.Log("varð fyrir kúlu");
-            count = count + 1;//færð stig
+            count = count + 1; //færð stig
             SetCountText();//kallar í aðferðina
             Sprengin();
         }
