@@ -5,18 +5,19 @@ using UnityEngine.SceneManagement;
 
 public class Skipti : MonoBehaviour
 {
-    void Start()
+    void Start() 
+
     {
-        Debug.Log("byrja");
+        Debug.Log("byrja");//Byrja
     }
-    private void OnTriggerEnter(Collider other)
+    private void OnTriggerEnter(Collider other)//Að rekast á aðra
     {
         other.gameObject.SetActive(false);
         StartCoroutine(Bida());    
     }
     IEnumerator Bida()
     {
-        yield return new WaitForSeconds(3);
+        yield return new WaitForSeconds(3); //Bíddu í sekúndur
         Endurræsa();
     }
     public void Endurræsa()
