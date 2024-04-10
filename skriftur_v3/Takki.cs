@@ -9,11 +9,11 @@ public class Takki : MonoBehaviour
         Cursor.visible = true;
         Cursor.lockState = CursorLockMode.None;
     }
-    public void Byrja()
+    public void Byrja() //Nota til að byrja
     {
         SceneManager.LoadScene(1);
     }
-    public void Endir()
+    public void Endir() //Til að enda
     {
         SceneManager.LoadScene(0);
        
