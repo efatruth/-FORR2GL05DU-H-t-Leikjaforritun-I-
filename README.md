@@ -35,5 +35,13 @@ Jæja, leikmaðurinn er fær um að skjóta í gegnum og blása og safna stigum 
 
 
 #### verkfni4
-#### myndband
+#### myndband..
 ## [skriftur4](skriftur_v4)
+
+
+
+
+
+#### verkfni5
+#### https://myndband..
+## [skriftur5](skriftur_v5)
