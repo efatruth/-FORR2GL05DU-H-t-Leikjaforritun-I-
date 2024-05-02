@@ -38,11 +38,11 @@ Jæja, leikmaðurinn er fær um að skjóta í gegnum og blása og safna stigum 
 #### https://www.youtube.com/watch?v=NmUtk9snbWg
 ## [skriftur4](skriftur_v4)
 #### 
-### Stutt lýsing á leik:
-##### "Rudy's Adventure" er klassísk leikur í 2D plattformunni þar sem leikmenn stjórna Rudy, drengjalega ævintýramaður sem rannsakar dularfullar lönd fyllt af skattum og hættum. Leiðbeinaðu þér í gegnum mismunandi stig, safnaðu gildum hlutum, forðastu sníkjudjammi og sigraðu óvini til að ná endanlega markmiðinu. Með einfaldum stjórnunum og töfrandi sjónrænum, "Rudy's Adventure" veitir skemmtilega leikjaupplifun fyrir leikmenn í öllum aldurshópum.#####
+#### Stutt lýsing á leik:
+##### "Rudy's Adventure" er klassísk leikur í 2D plattformunni þar sem leikmenn stjórna Rudy, drengjalega ævintýramaður sem rannsakar dularfullar lönd fyllt af skattum og hættum. Leiðbeinaðu þér í gegnum mismunandi stig, safnaðu gildum hlutum, forðastu sníkjudjammi og sigraðu óvini til að ná endanlega markmiðinu. Með einfaldum stjórnunum og töfrandi sjónrænum, "Rudy's Adventure" veitir skemmtilega leikjaupplifun fyrir leikmenn í öllum aldurshópum.
 
-### Viðbótum frá Mér:
-## Í "Rudy's Adventure" munu leikmenn mæta einstökum áskorunum og uppgötva falnar leyndarmál á meðan þeir gera framfarir í gegnum leikinn. Auk þess munu vera kraftaverk útbreidd yfir stigin, sem veita Rudy tímabundið hæfileika eins og aukinn hraði eða ódauðleiki. Að auki geta leikmenn opnað nýjar húðflúr eða búningar fyrir Rudy með því að nota gjaldmiðilinn sem safnað var á ferðinni þeirra, bætir skemmtilegri sérsniðningu við leikinn.##
+#### Viðbótum frá Mér:
+##### Í "Rudy's Adventure" munu leikmenn mæta einstökum áskorunum og uppgötva falnar leyndarmál á meðan þeir gera framfarir í gegnum leikinn. Auk þess munu vera kraftaverk útbreidd yfir stigin, sem veita Rudy tímabundið hæfileika eins og aukinn hraði eða ódauðleiki. Að auki geta leikmenn opnað nýjar húðflúr eða búningar fyrir Rudy með því að nota gjaldmiðilinn sem safnað var á ferðinni þeirra, bætir skemmtilegri sérsniðningu við leikinn. 
 
 
 
